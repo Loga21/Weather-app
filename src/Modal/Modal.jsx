@@ -71,7 +71,7 @@ const Modal = () => {
                   {modalContent.temperature + 6} °C
                 </div>
                 <div className='py-2'>
-                  <span className='fw-bold'>Min-Temp:</span>
+                  <span className='fw-bold'>Min-Temp : </span>
                   {modalContent.temperature - 5} °C
                 </div>
                 <div className='py-2'>
