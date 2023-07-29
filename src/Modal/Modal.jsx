@@ -63,7 +63,7 @@ const Modal = () => {
               </div>
               <div className='text-start'>
                 <div className='py-2'>
-                  <span className='fw-bold'>Country : </span>
+                  <span className='fw-bold'>Country:</span>
                   {`${modalContent.country} (${modalContent.country_code})`}
                 </div>
                 <div className='py-2'>
