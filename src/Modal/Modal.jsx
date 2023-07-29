@@ -75,7 +75,7 @@ const Modal = () => {
                   {modalContent.temperature - 5} °C
                 </div>
                 <div className='py-2'>
-                  <span className='fw-bold'>Condition : </span>
+                  <span className='fw-bold'> Condition : </span>
                   {modalContent.temperature > 30
                     ? 'Sunny'
                     : modalContent.temperature >= 20 &&
