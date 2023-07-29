@@ -67,7 +67,7 @@ const Modal = () => {
                   {`${modalContent.country} (${modalContent.country_code})`}
                 </div>
                 <div className='py-2'>
-                  <span className='fw-bold'>Max-Temp : </span>
+                  <span className='fw-bold'>Max-Temp: </span>
                   {modalContent.temperature + 6} °C
                 </div>
                 <div className='py-2'>
